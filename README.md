@@ -34,7 +34,7 @@ Port:  /dev/ttys006
 Once connected, run the `user.py` script's `/start` command to tell the 
 fake device to start generating samples:
 
-```sh
+```
 --> /start
 ---------------------------------
 ID: 0.000000
