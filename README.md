@@ -55,6 +55,5 @@ Wait for buffer to flush...
 
 ## Todo ##
 
-[ ] Allow alternative .csv file (or directory of .csv files) at command line.
-[ ] Fix "serial.serialutil.SerialException: device reports readiness" exception
-    raised after `/stop` command in OpenBCI Python `user.py` script.
+- [ ] Allow alternative .csv file (or directory of .csv files) at command line.
+- [ ] Fix "serial.serialutil.SerialException: device reports readiness" exception raised after `/stop` command in OpenBCI Python `user.py` script.
